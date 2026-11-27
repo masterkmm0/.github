@@ -1,12 +1,12 @@
-#
-# 204
-#
-<<Create Code Gen-5 Enable Version Select New Change Current Configuration Connect Share Limit Account>>
-#
-# 205
 # 
-[{"Start File"="enable"}];
-//
+# 204 
+# 
+<<Create Code Gen-5 Enable Version Select New Change Current Configuration Connect Share Limit Account>> 
+# 
+# 205 
+# 
+// 
+[{"Start File"="enable"}]; 
 <<
 [{
   "name": "plan-vacation",
@@ -48,8 +48,8 @@
       "description": "End File"
     }
   ]
-}];
->>
-//
-[{"End File"="disable"}];
+}]; 
+[{"End File"="disable"}]; 
+>> 
+ // 
 # 
